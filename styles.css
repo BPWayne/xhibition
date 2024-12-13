@@ -1,0 +1,55 @@
+div.works{
+	width: 100%px;
+   		padding: 25px;
+   		font-size: 25px;
+   		height: 100%px;
+   		border: 3px solid white;
+   		
+   		
+
+   
+   	margin-top: 20px;
+   	margin-bottom: 20px;
+   	margin-right: 80px;
+   	margin-left: 620px;
+   	text-align: center;
+   	font-color: white;
+
+   	background-color: black;
+
+
+}
+
+div.intro{
+ 		width: 500px;
+ 		height: 20px;
+   		padding: 25px;
+
+   	margin-top: 20px;
+   	margin-bottom: 20px;
+   	margin-right: 80%px;
+   	margin-left: 80%px;
+   	text-align: center;
+      border-radius: 70px;
+
+   	background-color: grey;
+
+
+}
+
+div.intro2{
+ 		width: 500px;
+ 		height: 20px;
+   		padding: 25px;
+
+   	margin-top: 30px;
+   	margin-bottom: 30px;
+   	margin-right: 80%px;
+   	margin-left: 80%px;
+   	text-align: center;
+      border-radius: 70px;
+
+   	
+
+
+}
